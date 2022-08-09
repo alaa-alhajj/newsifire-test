@@ -20,7 +20,7 @@ git clone git@github.com:alaa-alhajj/newsifire-test.git
 ## Switch to the repo folder
 
 ```bash
-cd newsifire-test-project
+cd newsifire-test
 ```
 
 ## Install all the dependencies using composer
